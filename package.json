@@ -1,0 +1,20 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "On this occasion, we will create a functional shopping cart, where you can make payments with Paypal, credit or debit card. 🤑",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseLMY/shopping-cart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseLMY/shopping-cart/issues"
+  },
+  "homepage": "https://github.com/JoseLMY/shopping-cart#readme"
+}
